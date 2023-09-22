@@ -80,6 +80,7 @@ void main() {
     //exibir o jogo
     stdout.writeln(
         "\n$nome escolheu: $tipoOpcaoUsuario \nComputador escolheu: $tipoOpcaoPc \nResultado: $msg");
+        
 
     stdout.writeln(
         "\nPontuação final: \n$nome: $pontuacaoUsuario \nComputador: $pontuacaoPc\n");
